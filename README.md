@@ -36,7 +36,7 @@ Prerequisites
 Ensure you have a C compiler, such as GCC, installed on your system.
 Compilation
 Clone the repository:
-git clone https://github.com/your-username/PixelLock.git
+git clone [https://github.com/AyushiSingh-1/PixelLock.git](https://github.com/AyushiSingh-1/PixelLock.git)
 Navigate to the project directory:
 cd PixelLock
 Compile the C code (assuming the file is named pixellock.c):
@@ -47,7 +47,7 @@ Before running, you may want to modify the main() function in the pixellock.c so
 
 int main() {
     uint8_t key[16] = "ThisIsAKey123..."; // Change your key here
-    const char *inputImage = "Aimage.bmp";  // Change to your input file
+    const char *inputImage = "original.bmp";  // Change to your input file
     const char *encryptedImage = "encrypted_image.bmp";
     const char *decryptedImage = "decrypted_image.bmp";
 
