@@ -19,10 +19,14 @@ Save Image: The final result is saved as a new BMP file. The image will appear a
 Decryption is the exact reverse of this process, restoring the image to its original state.
 
 Visual Example
+
 Original Image 
+
+
 ![Original Image](Original.jpg)
 
 Encrypted Image
+
 
 ![Encrypted Image](Encrypted.jpg) 
 
